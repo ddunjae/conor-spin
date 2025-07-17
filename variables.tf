@@ -8,7 +8,7 @@ variable "location" {
 }
 variable "storage_account_name" {
   type        = string
-  default     = "conor0717storage"
+  default     = "conor0717storagespin"
 }
 variable "account_tier" {
   type        = string
